@@ -115,6 +115,7 @@ A website that displays random memes from Reddit through an API.
 **CMS**
 
 ![WordPress](https://img.shields.io/badge/WordPress-0D1117?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![Shopify](https://img.shields.io/badge/Shopify-0D1117?style=for-the-badge&logo=shopify&logoColor=7AB55C)
 
 **Backend & data**
 
