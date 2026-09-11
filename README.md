@@ -13,7 +13,7 @@
   <a href="https://github.com/Mukundvashisht/ar_studios"><img src="https://img.shields.io/badge/Featured-AR_Studios-0D1117?style=for-the-badge&labelColor=164E63&color=0D1117" alt="Featured project: AR Studios" /></a>
 </p>
 
-[About](#a-little-about-me) · [Projects](#selected-work) · [Stack](#my-toolkit) · [Activity](#building-in-public)
+[About](#a-little-about-me) · [Projects](#selected-work) · [Stack](#my-toolkit) · [Collaboration](#collaboration)
 
 </div>
 
@@ -40,13 +40,13 @@ An application that brings client and project workflows into one place, with aut
 <tr>
 <td width="50%" valign="top">
 
-### 📦 Inventory App
+### 🔄 Universal Site Migration
 
-An inventory interface for displaying available items and notifying users about events.
+A WordPress plugin for exporting and importing site files and database content, with resumable transfers and automatic URL replacement.
 
-**React · Vite · JavaScript**
+**WordPress · Site migration**
 
-[View project →](https://github.com/Mukundvashisht/Inventory_app)
+[View project →](https://github.com/Mukundvashisht/universal-site-migration)
 
 </td>
 <td width="50%" valign="top">
@@ -110,6 +110,12 @@ A website that displays random memes from Reddit through an API.
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css&logoColor=639)
 ![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF)
 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+
+**CMS**
+
+![WordPress](https://img.shields.io/badge/WordPress-0D1117?style=for-the-badge&logo=wordpress&logoColor=21759B)
+
 **Backend & data**
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -119,11 +125,9 @@ A website that displays random memes from Reddit through an API.
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-0D1117?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF)
 ![Jinja](https://img.shields.io/badge/Jinja-0D1117?style=for-the-badge&logo=jinja&logoColor=B41717)
 
-## Building in public
+## Collaboration
 
-Recent contributions across my GitHub projects.
-
-[![Mukund's recent GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Mukundvashisht&bg_color=0D1117&color=94A3B8&line=22D3EE&point=FFFFFF&area=true&area_color=164E63&hide_border=true&custom_title=From%20idea%20to%20commit)](https://github.com/Mukundvashisht?tab=overview)
+No collaborations yet.
 
 <div align="center">
 
